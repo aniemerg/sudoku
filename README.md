@@ -21,7 +21,7 @@ To get started with the code in this repository, follow the instructions below.
 
 ### Prerequisites
 
-- Python (version X.X.X)
+- Python (version 3.10+)
 - Jupyter Notebook
 
 ### Installation
@@ -45,9 +45,9 @@ pip install -r requirements.txt
 
 The repository includes the following Jupyter notebooks:
 
-- `notebook1.ipynb`: Description of notebook 1.
-- `notebook2.ipynb`: Description of notebook 2.
-- ...
+- `Sudoku-Basics.ipynb`: Basics of playing 4x4 sudoku with an LLM.
+- `Sudoku-First Evals.ipynb`: Evaluating GPT-3.5 and GPT-4 on 4x4 sudoku.
+- `Sudoku-First Train.ipynb`: Training GPT-3.5 to better play 4x4 sudoku.
 
 Each notebook corresponds to a specific blog post in the tutorial series and provides code examples and explanations.
 
@@ -55,9 +55,9 @@ Each notebook corresponds to a specific blog post in the tutorial series and pro
 
 To follow along with the tutorial and gain a deeper understanding of the concepts, please refer to the blog posts:
 
-1. [Blog Post 1 Title](link-to-blog-post-1)
-2. [Blog Post 2 Title](link-to-blog-post-2)
-3. ...
+1. [LLMs and sudoku](http://localhost:8000/llms-and-sudoku/)
+2. [Evaluating LLMS](http://localhost:8000/evaluate-llms/)
+3. [First Fine Tune](http://localhost:8000/first-tune/)
 
 The blog posts provide detailed explanations, insights, and additional context for the code in this repository.
 
