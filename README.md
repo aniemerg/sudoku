@@ -1,6 +1,8 @@
 # Sudoku with Large Language Models
 
-![Sudoku Puzzle](images/puzzle.png)
+<p align="center">
+  <img src="images/sudoku.png" alt="Sudoku Puzzle" />
+</p>
 
 Welcome to the "Sudoku with Large Language Models" repository! This repository contains Jupyter notebooks and Python files that accompany a tutorial series on my blog about playing Sudoku with large language models (LLMs). The goal of this project is to help users gain a better understanding of LLMs by exploring their capabilities in solving Sudoku puzzles.
 
